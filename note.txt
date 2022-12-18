@@ -1,0 +1,10 @@
+- Create a new sln : dotnet new sln
+- Create new template project : dotnet new webapi -n API
+- Create class lib: dotnet new classlib -n Application
+- Add Project to sln : dotnet sln add API
+- Add Ref: dotnet add reference ../Application
+
+Inheritance
+    - Animal: Dog
+    - Electrical Device: Radio, TV
+    - Employee

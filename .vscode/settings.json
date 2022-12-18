@@ -1,0 +1,15 @@
+{
+    "editor.fontFamily": "'Fira Code Retina', 'Fira Code', 'Fira Code Light', 'Courier New', monospace",
+    "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+    "editor.fontWeight": "700",
+    "files.exclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "cSpell.languageSettings": [
+    
+    ],
+    "cSpell.words": [
+        "wuff"
+    ]
+}

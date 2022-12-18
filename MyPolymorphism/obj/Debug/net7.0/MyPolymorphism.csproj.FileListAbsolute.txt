@@ -1,0 +1,12 @@
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\bin\Debug\net7.0\MyPolymorphism.deps.json
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\bin\Debug\net7.0\MyPolymorphism.dll
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\bin\Debug\net7.0\MyPolymorphism.pdb
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\MyPolymorphism.csproj.AssemblyReference.cache
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\MyPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\MyPolymorphism.AssemblyInfoInputs.cache
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\MyPolymorphism.AssemblyInfo.cs
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\MyPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\MyPolymorphism.dll
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\refint\MyPolymorphism.dll
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\MyPolymorphism.pdb
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyPolymorphism\obj\Debug\net7.0\ref\MyPolymorphism.dll

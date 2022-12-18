@@ -1,0 +1,12 @@
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\bin\Debug\net7.0\MyInheritance.deps.json
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\bin\Debug\net7.0\MyInheritance.dll
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\bin\Debug\net7.0\MyInheritance.pdb
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\MyInheritance.csproj.AssemblyReference.cache
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\MyInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\MyInheritance.AssemblyInfoInputs.cache
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\MyInheritance.AssemblyInfo.cs
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\MyInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\MyInheritance.dll
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\refint\MyInheritance.dll
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\MyInheritance.pdb
+C:\Users\ntloc\Desktop\TuanLoc\Self-Study\MyInheritance\obj\Debug\net7.0\ref\MyInheritance.dll
